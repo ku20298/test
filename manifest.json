@@ -1,9 +1,0 @@
-{
-  "name"              : "一連城",
-  "short_name"        : "一連城",
-  "description"       : "一連城",
-  "display"           : "standalone",
-  "orientation"       : "portrait",
-  "background_color"  : "#000000",
-  "theme_color"       : "#ffffff"
-}
